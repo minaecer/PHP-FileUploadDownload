@@ -2,7 +2,7 @@
 
 compatible with most files
 
-pjpeg,jpeg,gif, bmp, x-png, png , pdf,doc,docx, xls, xlsx
+pjpeg , jpeg , gif , bmp , x-png , png , pdf,doc,docx, xls, xlsx
 
 you can downloading files from uploaded folder
 
